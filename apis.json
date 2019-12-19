@@ -1,0 +1,42 @@
+{
+    "name": "GSA Per Diem API",
+    "description": "<p>Per Diem Rates are the allowed reimbursement rates for hotel stays and meals for federal travelers. Rates are set for each of the federal government's fiscal years (FY 2014 is October 1, 2013 to September 30, 2014.) GSA is responsible for setting the rates in the continental United States. &nbsp;Many businesses and other organizations adopt these rates as well. GSA is making the rates available using the CKAN's Action API via Data.gov to allow software developers programmatic access the data and create innovative uses for it.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gsa-logo.png",
+    "tags": [
+        "api provider",
+        "federal government   gsa",
+        "general data",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gsa-per-diem-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "GSA Per Diem API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gsa-logo.png",
+            "humanURL": "http:\/\/gsa.gov\/portal\/content\/162379",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gsa-per-diem-api-openapi.json"
+                },
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/gsa-per-diem-api.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/gsa.gov\/portal\/content\/162379"
+        }
+    ]
+}

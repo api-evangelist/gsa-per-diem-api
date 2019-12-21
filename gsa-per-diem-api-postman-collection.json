@@ -1,5 +1,5 @@
 {
-    "id": "eaa7716d9bc5bbe6ae2604ed90105034",
+    "id": "a5ccb53996295e18e6f30bdfb38117dd",
     "name": "GSA Per Diem API",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "62b6efa6cb5e634841b3fa8531be3626",
+            "id": "6e6282552c8be8ad68f356522cd3655f",
             "name": "Per Diem Rates",
             "url": "httpsinventory.data.gov\/api\/action\/\/datastore_search?resource_id=8ea44bc4-22ba-4386-b84c-1494ab28964b",
             "description": "GSA sets rates for geographic areas it determines called primary destinations. Areas outside the primary destinations are covered by the same, nation-wide standard rate.",
@@ -37,7 +37,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "eaa7716d9bc5bbe6ae2604ed90105034",
+            "collectionId": "a5ccb53996295e18e6f30bdfb38117dd",
             "rawModeData": ""
         }
     ]
